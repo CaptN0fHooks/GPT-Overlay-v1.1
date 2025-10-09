@@ -1,0 +1,13 @@
+{
+  "name": "gpt-overlay-v1.1",
+  "version": "0.0.1",
+  "description": "Chrome/Safari browser overlay for LLM interaction.",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo Overlay initialized",
+    "test": "echo No tests yet"
+  },
+  "keywords": ["chrome-extension", "manifest-v3", "overlay", "llm"],
+  "author": "Michael Richard Jacquez",
+  "license": "MIT"
+}
